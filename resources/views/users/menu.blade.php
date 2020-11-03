@@ -86,16 +86,16 @@
             </ul>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="{{ url('contact')}}">Contact</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Career Opportunity</a>
+            <a class="nav-link" href="{{ url('Career-opportunity')}}">Career Opportunity</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="{{ url('synthesis')}}">Synthesis</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="{{ url('nectar-intothetrees')}}">nectar</a>
+            <a class="nav-link" href="{{ url('nectar-advertisement')}}">nectar</a>
         </li>
         <br>
     </ul>
