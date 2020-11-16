@@ -29,3 +29,21 @@ Route::get('synthesis', function () {
 Route::get('nectar-intothetrees', function () {
     return view('users.nectar-intothetrees');
 });
+Route::get('contact', function () {
+    return view('users.contact');
+});
+Route::get('Career-opportunity', function () {
+    return view('users.Career-opportunity');
+});
+Route::get('nectar-advertisement', function () {
+    return view('users.Nectar');
+});
+Route::get('summer-vaver', function () {
+    return view('users.Summer-vaver');
+});
+Route::get('the-journey', function () {
+    return view('users.the-journey');
+});
+Route::get('every-morning', function () {
+    return view('users.every-morning');
+});
