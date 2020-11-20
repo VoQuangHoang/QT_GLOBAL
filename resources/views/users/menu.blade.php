@@ -37,7 +37,7 @@
             </ul>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">QT-KiTi</a>
+            <a class="nav-link" href="{{ url('kiti')}}">QT-KiTi</a>
         <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" data-target="#navbarNav2" aria-controls="navbarNav"
                 aria-expanded="false" aria-label="Toggle navigation">Business</a>
@@ -64,24 +64,24 @@
                         aria-expanded="false" aria-label="Toggle navigation">Products</a>
                     <ul class="navbar-nav flex-column collapse navbar-collapse" id="navbarNav4">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Straw</a>
+                            <a class="nav-link" href="{{url('qt-bamboo.product.bamboo-straw')}}">Straw</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Cup</a>
+                            <a class="nav-link" href="{{url('qt-bamboo.product.bamboo-cup')}}">Cup</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Pen</a>
+                            <a class="nav-link" href="{{url('qt-bamboo.product.bamoo-pen')}}">Pen</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Spoon</a>
+                            <a class="nav-link" href="{{url('qt-bamboo.product.bamo-spoon')}}">Spoon</a>
                         </li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="{{url('qt-bamboo.qt-bamboo-contact')}}">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
+                    <a class="nav-link" href="{{url('qt-bamboo.qt-bamboo-about')}}">About</a>
                 </li>
             </ul>
         </li>

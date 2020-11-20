@@ -1,0 +1,306 @@
+ .mainkiti {
+                width: 100%;
+                height: auto;
+                background-image: url(https://secureservercdn.net/198.71.233.68/3xf.d8b.myftpupload.com/wp-content/uploads/2020/05/download.jpg?time=1599712072);
+                background-position: left top;
+                background-repeat: no-repeat;
+                    background-size: contain;
+                background-color: #efe9e9;
+            }
+ .slogan {
+                padding: 50px 0 0 0;
+            }
+            .slogan h1 {
+                text-align: center;
+                font-family: Abel;
+                font-weight: 400;
+                font-style: normal;
+                text-align: center;
+                color: white;
+                font-size: 65px;
+            }
+            .slogan h2 {
+                text-align: center;
+                font-family: Abel;
+                font-weight: 400;
+                font-style: normal;
+                text-align: center;
+                color: white;
+                font-size: 50px;
+            }
+            .form{
+            width: 1123px;
+            height: 800px;
+            background-color: white;
+            padding-left:20px;
+            margin-left: 50px;
+
+        }
+        .form-x{
+            width: 975px;
+            height: 777px;
+            display:block;
+            padding:20px 74px 74px 74px;
+            margin-top: 5px;
+            position: relative;
+            z-index: 1;
+            
+        }
+        .form-xx{
+            padding-top:30px; 
+        }
+        .form-xx input{
+            margin: 15px 0 30px 0;
+        
+        }
+        input[type=submit] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        input[type=submit]:hover {  
+            background-color: #45a049;
+        }
+ 
+
+ 
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+.r1{
+    position: absolute;
+    width: 650px;
+    float: left;
+}
+.bautroi{
+    background-image: url("https://3xf.d8b.myftpupload.com/wp-content/uploads/2020/05/qtq80-It8n1j.jpeg?time=1600659936");
+    width: 1264px;
+    height: 743px;
+    margin-top: 89px;
+    display: inline-block;
+}
+.bt1{
+    height: 439px;
+    width: 1124px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 130px;
+}
+.btt1{
+    width: 350px;
+    height: 439px;
+    margin-left: 20px; 
+    text-align: center;
+    float: left;
+}
+.btt1 p{
+    font-size: 20px;
+    color: #000000bf;
+    line-height: 30px;
+    padding-top:15px;
+}
+
+.phodem{
+    width: 1264px;
+    height: 500px;
+    margin-top: -10px;
+    background-image: url("https://3xf.d8b.myftpupload.com/wp-content/uploads/2020/05/qtq80-7ASu2I.jpeg?time=1600659936");
+}
+.pr{
+    width: 550px;
+    height: 500px;
+    text-align: left;
+    float: left;
+}
+.sixanh{
+    width: 1270px;
+    height: 790px;
+}
+.cot1{
+    float: left;
+    width: 32%;
+    float: left;
+}
+.cot2{
+    float: left;
+    width: 27%;
+    color: white;
+    padding-left: 15px;
+    background-color: #e5e5e5;
+}
+.cot3 {
+    float: left;
+    width: 32%;
+    color: white;
+
+    padding-left: 64px;
+
+}
+
+.cot1, .cot2, .cot3 {
+    margin: 5px;
+}
+.cot1 {
+    margin-left: 10px;
+    position: relative;
+}
+.cot11, .cot12 , .cot13, .cot14 , .cot15 , .cot16 {
+
+    color: black;
+}
+
+.cot12, .cot14 , > h3, p {
+    padding: 5px;
+    color: black;
+}
+ .cot12,.cot14, > img {
+    width: 100%;
+}
+.cot11, .cot13,.cot15, > img {
+    width: 100.1%;
+}
+.cot12 {
+    margin-top: 10px;
+}
+.cot11 h3 {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+.cot11 p {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.cot12 h3 {
+    position: absolute;
+    bottom: 160px;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+.cot12 p {
+    position: absolute;
+    bottom: 70px;
+    left: 20%;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.cot2{
+    position: relative;
+}
+.cot13 h3 {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+.cot13 p {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.cot14 h3 {
+    position: absolute;
+    bottom: 160px;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+.cot14 p {
+    position: absolute;
+    bottom: 70px;
+    left: 20%;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.cot3{
+    position: relative;
+}
+.cot15 h3 {
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+.cot15 p {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.cot16 h3 {
+    position: absolute;
+    bottom: 160px;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+.cot16 p {
+    position: absolute;
+    bottom: 70px;
+    left: 20%;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.cot13 , .cot11 ,.cot15{
+    margin-bottom: 25px;
+}
+.cot1,.cot3{
+    margin-top: 40px;
+}
+.bot{
+    width: 100%;
+    height: 720px;
+}
+.botr{
+    width: 555px;
+    height: 717px;
+    position: relative;
+    float: left;
+}
+
+.botr h1{
+    position: absolute;
+    top: 48%;
+    left: 17%;
+    font-family: Abril Fatface;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 80px;
+}
+.botl{
+    width: 695px;
+    height: 717px;
+    padding-left: 550px;padding-top: 40px;
+}
+.b1,.b2,.b3,.b4{
+    padding: 0px 0px 50px 50px;
+    width: 700px;
+
+}
+/* card product*/

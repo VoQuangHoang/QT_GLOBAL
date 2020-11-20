@@ -34,3 +34,9 @@ Route::get('synthesis', function () {
 Route::get('nectar-intothetrees', function () {
     return view('users.nectar-intothetrees');
 });
+Route::get('kiti', function () {
+    return view('users.kiti');
+});
+Route::get('kiti', function () {
+    return view('users.kiti');
+});
